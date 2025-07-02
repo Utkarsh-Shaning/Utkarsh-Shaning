@@ -3,8 +3,9 @@ Hey,I'm Utkarsh ✨
 
 
 
-https://github.com/user-attachments/assets/683d01df-5100-4bd5-924f-60ccb8bd3d3c
-
+<div align="center">
+  <img src="batman.gif" alt="Batman in the rain" width="600"/>
+</div>
 
 
 
