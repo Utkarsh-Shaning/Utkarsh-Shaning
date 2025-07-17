@@ -24,4 +24,5 @@ Hey,I'm Utkarsh ✨
   <img src="https://cdn.simpleicons.org/pydantic/ff0000" alt="Pydantic" style="height: 24px; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="height: 24px; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height: 24px;" />
+  <img src="https://cdn.simpleicons.org/render/FFFFFF" alt="Render" style="height: 24px; margin-right: 10px;" />
 </p>
